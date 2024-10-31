@@ -1,7 +1,3 @@
-Here's a GitHub README for you that highlights your professional background, technologies you work with, and gives an overview of your skills.
-
----
-
 # Hi there 👋 I'm Bilal Ahmad Akbar
 
 I'm a passionate Software Engineer with a strong background in full-stack development and a current focus on frontend engineering. With experience across the MERN stack, TypeScript, React, and various testing and analytics integrations, I aim to deliver scalable and efficient software solutions.
@@ -36,6 +32,3 @@ I'm a passionate Software Engineer with a strong background in full-stack develo
 ## 📫 Connect With Me
 - LinkedIn: [Bilal Ahmad Akbar](https://www.linkedin.com/in/bilal-ahmad-akbar-3011a41b7/)
 
---- 
-
-Feel free to customize this with any additional details or links you'd like to include!
