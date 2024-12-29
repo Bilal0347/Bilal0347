@@ -4,10 +4,11 @@ I'm a passionate Software Engineer with a strong background in full-stack develo
 
 ## 🛠️ Technologies & Skills
 ### Languages & Frameworks
-- **Frontend**: React, Vue.js, JavaScript, TypeScript, Storybook
+- **Languages**: Html, Css, JavaScript, TypeScript
+- **Frontend**: React, Vue.js, Tailwind Css, Maerial UI, WebPack, Npm, Yarn, Vite, BootStrap
 - **Backend**: Node.js, Express
 - **Database**: PostgreSQL, MongoDB
-- **Testing**: Unit Testing, End-to-End Testing
+- **Testing**: Unit Testing, End-to-End Testing, Storybook
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 100px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" height="30">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30">
