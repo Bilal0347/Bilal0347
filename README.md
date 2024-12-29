@@ -34,7 +34,7 @@ I'm a passionate Software Engineer with a strong background in full-stack develo
 ## 💼 Work Experience
 - **Likeminded**: Software Engineer - Frontend (React, TypeScript, JavaScript)
 - **Netxisol**: MERN Stack Developer (React, Node.js, MongoDB)
-- **Programmers Force**: Associate Software Engineer (Vue.js, TypeScript, PostgreSQL, socket programming)
+- **Programmers Force**: Associate Software Engineer (Vue.js, TypeScript, PostgreSQL, Node.Js, socket programming)
 
 ## 🎯 What I’m Currently Working On
 - Developing user-centric frontend applications using React, with an emphasis on scalability and performance.
