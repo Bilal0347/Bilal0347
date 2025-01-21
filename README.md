@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Bilal Ahmad Akbar
 
-I'm a passionate Software Engineer with a strong background in full-stack development and a current focus on frontend engineering. With experience across the MERN stack, TypeScript, React, and various testing and analytics integrations, I aim to deliver scalable and efficient software solutions.
+I'm a passionate Software Engineer with a strong background in full-stack development and a current focus on frontend engineering. With experience across the JavaScript, TypeScript, React.js, Node.js  and various testing and analytics integrations, I aim to deliver scalable and efficient software solutions.
 
 ## 🛠️ Technologies & Skills
 ### Languages & Frameworks
-- **Languages**: Html, Css, JavaScript, TypeScript, Python, Bash
+- **Languages**: Html, Css, JavaScript, TypeScript, Python
 - **Frontend**: React, Vue.js, Tailwind Css, Maerial UI, WebPack, Npm, Yarn, Vite, BootStrap
 - **Backend**: Node.js, Express, Docker, AWS
 - **Database**: PostgreSQL, MongoDB
