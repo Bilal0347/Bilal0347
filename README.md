@@ -7,7 +7,6 @@ I'm a passionate Software Engineer with a strong background in full-stack develo
 - **Languages**: Html, Css, JavaScript, TypeScript, Python, Bash
 - **Frontend**: React, Vue.js, Tailwind Css, Maerial UI, WebPack, Npm, Yarn, Vite, BootStrap
 - **Backend**: Node.js, Express, Docker, AWS
-- **Version Control**: Git (GitHub, GitLab), JIRA, Github workflows and actions.
 - **Database**: PostgreSQL, MongoDB
 - **Testing**: Unit Testing, End-to-End Testing, Storybook
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 100px;">
@@ -30,7 +29,7 @@ I'm a passionate Software Engineer with a strong background in full-stack develo
 
 
 ### Tools & Platforms
-- **Version Control**: Git, GitHub
+- **Version Control**: Git (GitHub, GitLab), JIRA, Github workflows and actions.
 - **Collaboration**: Agile Methodologies, JIRA
 
 ## 💼 Work Experience
